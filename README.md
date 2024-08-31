@@ -43,7 +43,7 @@ Server-Sent Events (SSE) is a technology where a server can push updates to the 
     ```
   
 # Reference:
-https://docs.nestjs.com/techniques/server-sent-events
-https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events
-https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events#sending_events_from_the_server
-https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events#event_stream_format
+https://docs.nestjs.com/techniques/server-sent-events \
+https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events \
+https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events#sending_events_from_the_server \
+https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events#event_stream_format \
